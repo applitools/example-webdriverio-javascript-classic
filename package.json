@@ -12,11 +12,11 @@
   "dependencies": {
     "@applitools/eyes-webdriverio": "^5.38.0",
     "@wdio/cli": "^7.28.1",
-    "@wdio/dot-reporter": "^7.28.1",
+    "@wdio/dot-reporter": "^7.26.0",
     "@wdio/local-runner": "^7.28.1",
-    "@wdio/mocha-framework": "^7.28.1",
-    "@wdio/spec-reporter": "^7.28.1",
-    "wdio-chromedriver-service": "7.28.1",
+    "@wdio/mocha-framework": "^7.26.0",
+    "@wdio/spec-reporter": "^7.26.0",
+    "wdio-chromedriver-service": "7.3.2",
     "webdriverio": "^7.28.0"
   },
   "devDependencies": {
