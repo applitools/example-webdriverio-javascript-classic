@@ -4,8 +4,7 @@
   "description": "An example project for WebdriverIO 7 JavaScript using Applitools classic runner",
   "main": "index.js",
   "scripts": {
-    "test": "wdio",
-    "wdio": "wdio run ./wdio.conf.js"
+    "test": "wdio"
   },
   "author": "Applitools Team <team@applitools.com> (http://www.applitools.com/)",
   "license": "ISC",

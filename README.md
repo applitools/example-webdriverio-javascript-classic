@@ -33,4 +33,4 @@ npm test
 ```
 
 **For full instructions on running this project, take our
-[Selenium JavaScript tutorial](https://applitools.com/tutorials/selenium-javascript.html)!**
+[WebdriverIO JavaScript tutorial](https://applitools.com/tutorials/quickstart/web/webdriverio/webdriverio-7)!**
