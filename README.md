@@ -1,6 +1,6 @@
 # Applitools Example: WebdriverIO 7 JavaScript with the Classic Runner
 
-This is the example project for the [WebdriverIO JavaScript tutorial](https://applitools.com/tutorials/quickstart/web/webdriverio/webdriverio-6).
+This is the example project for the [WebdriverIO JavaScript tutorial](https://applitools.com/tutorials/quickstart/web/webdriverio/webdriverio-7).
 It shows how to start automating visual tests
 with the [Applitools Eyes](https://applitools.com/platform/eyes/) classic runner
 using [WebdriverIO](https://v7.webdriver.io/) in JavaScript.
@@ -11,7 +11,6 @@ It uses:
 * [WebdriverIO v7](https://v7.webdriver.io/) for browser automation
 * [Google Chrome](https://www.google.com/chrome/downloads/) as the local browser for testing
 * [npm](https://www.npmjs.com/) for dependency management
-* [Mocha](https://mochajs.org/) as the core test framework
 * [Applitools Eyes](https://applitools.com/platform/eyes/) for visual testing
 
 To run this example project, you'll need:
