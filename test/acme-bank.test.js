@@ -57,19 +57,19 @@ describe('ACME Bank', function () {
   
   
   beforeEach(async function () {
-    //This method sets up each test with its own ChromeDriver and Applitools Eyes objects.
+    // This method sets up each test with its own ChromeDriver and Applitools Eyes objects.
     
-    // Create the Applitools Eyes object connected to the ClassicRunner and set its configuration.
+    // Create the Applitools Eyes object connected to the runner and set its configuration.
     eyes = new Eyes(runner);
     eyes.setConfiguration(config);
 
     // Open Eyes to start visual testing.
     // It is a recommended practice to set all four inputs:
     browser = await eyes.open(
-        browser,                             // WebDriver to "watch"
+        browser,                            // WebDriver to "watch"
         'ACME Bank',                        // The name of the app under test
         this.currentTest.fullTitle(),       // The name of the test case
-        new RectangleSize(1024, 768)         // The viewport size for the local browser
+        new RectangleSize(1024, 768)        // The viewport size for the local browser
     );
   });
   
